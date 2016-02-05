@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-###Publications:
+### Publications:
 
 Duffy AM, MC Stensvold, and DR Farrar. 2015. Independent gametophytes of *Hymenophllum wrightii* in North America: not as rare as we thought. American Fern Journal 105:45-55.
 
@@ -38,7 +38,7 @@ Wolf PG, AM Duffy, and JM Roper. 2009. Phylogenetic use of inversions in fern ch
 
 Duffy AM, SA Kelchner, and PG Wolf. 2009. Conservation of selection on *matK* following an ancient loss of its flanking intron. Gene 438:17-25.
 
-###Presentations:
+### Presentations:
 
 Duffy AM, DR Farrar, and PG Wolf. Exploring the population genetics of independent gametophytes of *Crepidomanes intricatum* (Farrar) Ebihara & Weakley (Hymenophyllaceae) using genotyping-by-sequencing. Botany 2014, Boise, ID (2014).
 
