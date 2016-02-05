@@ -6,6 +6,7 @@ permalink: /vpcsim/
 
 ###Virtual Plant Community Simulation (VPCsim)
 
+![VPCsim]({{ site.url }}/images/VPCsimScreenshot1-300x224.jpg)
 We are simulating a virtual plant community so students can explore the effects of the environment and human disturbance on living things and engage in science inquiry. Students create a community by selecting species and control the environment and levels of human disturbance. The community is then simulated over 200 years so students can view changes and collect data about how the plant community is affected over long periods of time.
 
 ###About the Science:
