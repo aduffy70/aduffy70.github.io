@@ -6,6 +6,8 @@ permalink: /research/
 
 ### Publications:
 
+Longhurst, ML, D Coster, AM Duffy, PG Wolf, H Lee, and T Campbell. (in press). Multi-year professional development grounded in educative curriculum focused on integrating technology with reformed science teaching principles. School Science and Mathematics.
+
 Duffy AM, MC Stensvold, and DR Farrar. 2015. Independent gametophytes of *Hymenophllum wrightii* in North America: not as rare as we thought. American Fern Journal 105:45-55.
 
 Sessa EB, JA Banks, MS Barker, JP Der, AM Duffy, SW Graham, M Hasebe, J Langdale, F-W Li, DB Marchant, KM Pryer, CJ Rothfels, SJ Roux, ML Salmi, EM Sigel, DE Soltis, PS Soltis, DW Stevenson, and PG Wolf. 2014. Between two fern genomes. GigaScience 3:15.
