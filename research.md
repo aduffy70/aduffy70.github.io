@@ -42,6 +42,8 @@ Duffy AM, SA Kelchner, and PG Wolf. 2009. Conservation of selection on *matK* fo
 
 ### Presentations:
 
+Duffy, AM, KM Mendoza, KM Reed, RA Coulombe. 2016. Poster: Candidate miRNAs involved in regulation of alpha-class glutathione S-transferases associated with susceptibility to the carcinogen aflatoxin B1. Plant & Animal Genome Conference XXIV, San Diego, CA (2016).
+
 Duffy AM, DR Farrar, and PG Wolf. Exploring the population genetics of independent gametophytes of *Crepidomanes intricatum* (Farrar) Ebihara & Weakley (Hymenophyllaceae) using genotyping-by-sequencing. Botany 2014, Boise, ID (2014).
 
 Duffy AM. Workshop: Hands-on inquiry using the Virtual Plant Community Simulation (VPCsim). Utah State University Global Academy - Science, Technology and Inquiry session, Logan, UT (2012).
