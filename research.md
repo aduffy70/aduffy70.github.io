@@ -6,7 +6,7 @@ permalink: /research/
 
 ### Publications:
 
-Longhurst ML, D Coster, AM Duffy, PG Wolf, H Lee, and T Campbell. (in press). Multi-year professional development grounded in educative curriculum focused on integrating technology with reformed science teaching principles. School Science and Mathematics.
+Longhurst ML, D Coster, PG Wolf, AM Duffy, H Lee, and T Campbell. 2016. Multi-year professional development grounded in educative curriculum focused on integrating technology with reformed science teaching principles. School Science and Mathematics 116:430-441.
 
 Duffy AM, MC Stensvold, and DR Farrar. 2015. Independent gametophytes of *Hymenophllum wrightii* in North America: not as rare as we thought. American Fern Journal 105:45-55.
 
