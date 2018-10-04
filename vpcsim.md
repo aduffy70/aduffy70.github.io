@@ -19,10 +19,10 @@ This simulation is based on a cellular automata model of competition. The probab
 
 Students control the environment, the initial plant community, and the levels of human disturbance. They can compare simulations under different conditions to perform experiments that would not be feasible using an actual plant community. We are using this system to help middle school students answer questions about how the environment and human activities affect organisms such as:
 
-* How do different types or levels of disturbance effect communities?
-* How does a changing environment effect communities?
-* What makes a species invasive and how does that effect existing organisms?
-* How does the size or distribution of conserved habitat patches effect organisms?
+* How do different types or levels of disturbance affect communities?
+* How does a changing environment affect communities?
+* What makes a species invasive and how does that affect existing organisms?
+* How does the size or distribution of conserved habitat patches affect organisms?
 
 ### About the Technology:
 
