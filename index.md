@@ -9,8 +9,8 @@ layout: default
   <img src="images/Fern_Reproduction.png" width="150" height="150" alt="Fern Reproduction" />
 </div>
 <div id="hometext">
-  <p>I am an evolutionary biologist and post-doctoral researcher at Utah State University.</p>
-  <p>My research interests include genome evolution, epigenetics, bioinformatics, and ferns with independent gametophytes.  I am also interested in improving how we teach science and developing simulation tools for use in the classroom.</p> 
+  <p>I am an evolutionary biologist and post-doctoral researcher at Duke University.</p>
+  <p>In my research, I use bioinformatic tools to answer questions about genome evolution, epigenetics, biogeography, and population genetics. I am intrigued by the often-overlooked gametophytic stage of the plant lifecycle. I am also interested in exploring and improving how we teach science and use technology in the classroom.</p> 
 </div>
 <div id="homeimages">
   <img src="images/Trichomanes_intricatum.png" width="150" height="150" alt="Trichomanes intricatum, Crepidomanes intricatum" />
