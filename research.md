@@ -6,6 +6,30 @@ permalink: /research/
 
 ### Publications:
 
+Nieto-Lugilde M, Nieto-Lugilde D, Piatkowski B, Duffy AM, Robinson SC, Aguero B, Schuette S, Wilkens R, Yavitt J, Shaw AJ. 2024. Ecological differentiation and sympatry of cryptic species in the *Sphagnum magellanicum* complex (Bryophyta). American Journal of Botany 111(9):e16401.
+
+Imwattana K, Aguero B, Nieto-Lugilde M, Duffy A, Jaramillo-Chico J, Hassel K, Afonina O, Lamkowski P, Shaw AJ. 2024. Parallel patterns of genetic diversity and structure in circumboreal species of the *Sphagnum capillifolium* complex. American Journal of Botany 111(5):e16348.
+
+Robinson SC, Nieto-Lugilde M, Duffy AM, Muñoz KM, Aguero B, Merced A, Hassel K, Flatberg KI, Shaw AJ. 2024. The *Sphagnum cuspidatum* complex: phylogeny, species delimitation, and morphology. Biological Journal of the Linnean Society 141(4):466-492.
+
+Piatkowski B, Weston DJ, Aguero B, Duffy A, Imwattana K, Healey AL, Schmutz J, Shaw AJ. 2023. Divergent selection and climate adaptation fuel genomic differentiation between sister species of *Sphagnum* (peat moss). Annals of Botany 132(3):499-512.
+
+Shaw AJ, Duffy AM, Nieto-Lugilde M, Aguero B, Schuette S, Robinson S, Loveland J, Hicks KA, Weston D, Piatkowski B, Kolton M, Koska JE, Healey AL. 2023. Clonality, local population structure and gametophyte sex ratios in cryptic species of the *Sphagnum magellanicum* complex. Annals of Botany 132(1):77-94.
+
+Shaw AJ, Nieto-Lugilde M, Aguero B, Duffy A, Piatkowski BT, Jaramillo-Chico J, Robinson S, Hassel K, Flatberg KI, Weston DJ, Schuette S, Hicks KA. 2023. *Sphagnum diabolicum* sp. nov. and *S. magniae* sp. nov.; morphological variation and taxonomy of the "*S. magellanicum complex*". Bryologist 126(1):69-89.
+
+Healey AL, Piatkowski B, Lovell JT, Sreedasyam A, Carey SB, Mamidi S, Shu S, Plott C, Jenkins J, Lawrence T, Aguero B, Carrell AA, Nieto-Lugilde M, Talag J, Duffy A, Jawdy S, Carter KR, Boston L-B, Jones T, Jaramillo-Chico J, Harkess A, Barry K, Keymanesh K, Bauer D, Grimwood J, Gunter L, Schmutz J, Weston DJ, Shaw AJ. 2023. Newly identified sex chromosomes in the *Sphagnum* (peat moss) genome alter carbon sequestration and ecosystem dynamics. Nature Plants 9(2):238-254.
+
+Shaw, AJ, Piatkowski B, Duffy AM, Aguero B, Imwattana K, Nieto-Lugilde M, Healey A, Weston DJ, Patel MN, Schmutz J, Grimwood J, Yavitt JB, Hassel K, Stenøien HK, Flatberg KI, Bickford CP, Hicks KA. 2022. Phylogenomic structure and speciation in an emerging model: the *Sphagnum magellanicum* complex (Bryophyta). The New Phytologist 236(4):1497-1511.
+
+Imwattana K, Aguero B, Duffy A, Shaw AJ. 2022. Demographic history and gene flow in the peatmosses *Sphagnum recurvum* and *Sphagnum flexuosum* (Bryophyta: Sphagnaceae). Ecology and Evolution 12(11):e9489.
+
+Nieto-Lugilde M, Robinson S, Aguero B, Duffy A, Imwattana K, Hassel K, Flatberg KI, Stenøien HK, Shkurko AV, Fedosov VE, Shaw AJ. 2022. Morphological-molecular incongruence in *Sphagnum majus* ssp. *majus* and ssp. *norvegicum*. Bryologist 125(2):294-310.
+
+Duffy AM, Ricca M, Robinson S, Aguero B, Johnson MG, Stenøien HK, Flatberg KI, Hassel K, Shaw AJ. 2022. Heterogeneous genetic structure in eastern North American peat mosses (*Sphagnum*). Biological Journal of the Linnean Society 135(4):692-707.
+
+Duffy AM, Aguero B, Stenøien HK, Flatberg KI, Ignatov MS, Hassel K, Shaw AJ. 2020. Phylogenetic structure in the *Sphagnum recurvum* complex (Bryophyta) in relation to taxonomy and geography. American journal of botany 107(9):1283-1295.
+
 Longhurst ML, D Coster, PG Wolf, AM Duffy, H Lee, and T Campbell. 2016. Multi-year professional development grounded in educative curriculum focused on integrating technology with reformed science teaching principles. School Science and Mathematics 116:430-441.
 
 Duffy AM, MC Stensvold, and DR Farrar. 2015. Independent gametophytes of *Hymenophllum wrightii* in North America: not as rare as we thought. American Fern Journal 105:45-55.
