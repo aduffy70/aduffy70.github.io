@@ -28,7 +28,7 @@ Nieto-Lugilde M, Robinson S, Aguero B, Duffy A, Imwattana K, Hassel K, Flatberg 
 
 Duffy AM, Ricca M, Robinson S, Aguero B, Johnson MG, Stenøien HK, Flatberg KI, Hassel K, Shaw AJ. 2022. Heterogeneous genetic structure in eastern North American peat mosses (*Sphagnum*). Biological Journal of the Linnean Society 135(4):692-707.
 
-Duffy AM, Aguero B, Stenøien HK, Flatberg KI, Ignatov MS, Hassel K, Shaw AJ. 2020. Phylogenetic structure in the *Sphagnum recurvum* complex (Bryophyta) in relation to taxonomy and geography. American journal of botany 107(9):1283-1295.
+Duffy AM, Aguero B, Stenøien HK, Flatberg KI, Ignatov MS, Hassel K, Shaw AJ. 2020. Phylogenetic structure in the *Sphagnum recurvum* complex (Bryophyta) in relation to taxonomy and geography. American Journal of Botany 107(9):1283-1295.
 
 Longhurst ML, D Coster, PG Wolf, AM Duffy, H Lee, and T Campbell. 2016. Multi-year professional development grounded in educative curriculum focused on integrating technology with reformed science teaching principles. School Science and Mathematics 116:430-441.
 
