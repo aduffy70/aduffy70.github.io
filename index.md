@@ -9,8 +9,11 @@ layout: default
   <img src="images/Fern_Reproduction.png" width="150" height="150" alt="Fern Reproduction" />
 </div>
 <div id="hometext">
-  <p>I am an evolutionary biologist and post-doctoral researcher at Duke University.</p>
-  <p>In my research, I use bioinformatic tools to answer questions about genome evolution, epigenetics, biogeography, and population genetics. I am intrigued by the often-overlooked gametophytic stage of the plant lifecycle. I am also interested in exploring and improving how we teach science and use technology in the classroom.</p> 
+  <p>I am a research scientist with experience in genomics, bioinformatics, and data-driven analysis,
+specializing in designing analytical approaches to complex biological questions. With a proven ability to generate,
+integrate, and interpret large-scale biological datasets, develop computational workflows, and translate
+results for diverse stakeholders, my background spans academic research and prior industry experience in
+regulated environments, including quality systems, documentation, and technical training.</p>
 </div>
 <div id="homeimages">
   <img src="images/Trichomanes_intricatum.png" width="150" height="150" alt="Trichomanes intricatum, Crepidomanes intricatum" />
