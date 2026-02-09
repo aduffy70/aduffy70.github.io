@@ -67,22 +67,22 @@ Wolf PG, AM Duffy, and JM Roper. 2009. Phylogenetic use of inversions in fern ch
 
 Duffy AM, SA Kelchner, and PG Wolf. 2009. Conservation of selection on *matK* following an ancient loss of its flanking intron. Gene 438:17-25.
 
-# Presentations & Posters:
+# Presentations, Posters & Workshops:
 
 Duffy, AM, KM Mendoza, KM Reed, RA Coulombe. 2016. Poster: Candidate miRNAs involved in regulation of alpha-class glutathione S-transferases associated with susceptibility to the carcinogen aflatoxin B1. Plant & Animal Genome Conference XXIV, San Diego, CA (2016).
 
-Duffy AM, DR Farrar, and PG Wolf. Exploring the population genetics of independent gametophytes of *Crepidomanes intricatum* (Farrar) Ebihara & Weakley (Hymenophyllaceae) using genotyping-by-sequencing. Botany 2014, Boise, ID (2014).
+Duffy AM, DR Farrar, and PG Wolf. Presentation: Exploring the population genetics of independent gametophytes of *Crepidomanes intricatum* (Farrar) Ebihara & Weakley (Hymenophyllaceae) using genotyping-by-sequencing. Botany 2014, Boise, ID (2014).
 
 Duffy AM. Workshop: Hands-on inquiry using the Virtual Plant Community Simulation (VPCsim). Utah State University Global Academy - Science, Technology and Inquiry session, Logan, UT (2012).
 
 Duffy AM, T Campbell, and PG Wolf. Workshop: The Virtual Population Genetics (VPG) Simulation System: An example of learning 'with' cyber-enabled technologies in science classrooms. National Science Teachers Association Research Dissemination Conference, San Francisco, CA (2011).
 
-Campbell T, and AM Duffy. Hands-on demo: OpenSim as an example of cyber-enabled technologies for facilitating science as inquiry. Cyberlearning Tools for STEM Education Conference, Berkeley, CA (2011).
+Campbell T, and AM Duffy. Workshop: OpenSim as an example of cyber-enabled technologies for facilitating science as inquiry. Cyberlearning Tools for STEM Education Conference, Berkeley, CA (2011).
 
-Duffy AM. Simulating fern life cycles and population genetics in a 3-dimensional virtual world. Botany 2009, Snowbird, UT and Idaho State University Practical Bioinformatics Workshop, Lava Hot Springs, ID (2009).
+Duffy AM. Presentation: Simulating fern life cycles and population genetics in a 3-dimensional virtual world. Botany 2009, Snowbird, UT and Idaho State University Practical Bioinformatics Workshop, Lava Hot Springs, ID (2009).
 
-Duffy AM, SA Kelchner, and PG Wolf. Conservation of selection on *matK* in ferns following an ancient loss of the *trnK* intron by genome inversion. Botany 2008, Vancouver, BC and Idaho State University Practical Bioinformatics Workshop, Lava Hot Springs, ID (2008).
+Duffy AM, SA Kelchner, and PG Wolf. Presentation: Conservation of selection on *matK* in ferns following an ancient loss of the *trnK* intron by genome inversion. Botany 2008, Vancouver, BC and Idaho State University Practical Bioinformatics Workshop, Lava Hot Springs, ID (2008).
 
-Duffy AM, MM Funke, JL Clark, and JF Smith. A phylogenetic analysis of the genera of tribe Episcieae (Gesneriaceae) from multiple loci. Botany 2004, Snowbird, UT and Northwest Science Association, Boise, ID (2006).
+Duffy AM, MM Funke, JL Clark, and JF Smith. Presentation: A phylogenetic analysis of the genera of tribe Episcieae (Gesneriaceae) from multiple loci. Botany 2004, Snowbird, UT and Northwest Science Association, Boise, ID (2006).
 
 Duffy AM, MM Funke, JL Clark, and JF Smith. Poster: A phylogenetic analysis of the genera of tribe Episcieae (Gesneriaceae) from multiple loci. BSU Day at the Legislature, Idaho State Capitol, Boise ID (2005), and BSU Undergraduate Research and Scholarship Conference, Boise, ID (2005).
