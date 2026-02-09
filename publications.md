@@ -19,7 +19,7 @@ Piatkowski B, Weston DJ, Aguero B, Duffy A, Imwattana K, Healey AL, Schmutz J, S
 
 Shaw AJ, Duffy AM, Nieto-Lugilde M, Aguero B, Schuette S, Robinson S, Loveland J, Hicks KA, Weston D, Piatkowski B, Kolton M, Koska JE, Healey AL. 2023. Clonality, local population structure and gametophyte sex ratios in cryptic species of the *Sphagnum magellanicum* complex. Annals of Botany 132(1):77–94.
 
-Shaw AJ, Nieto-Lugilde M, Aguero B, Duffy A, Piatkowski BT, Jaramillo-Chico J, Robinson S, Hassel K, Flatberg KI, Weston DJ, Schuette S, Hicks KA. 2023. *Sphagnum diabolicum* sp. nov. and *S. magniae* sp. nov.; morphological variation and taxonomy of the "*S. magellanicum complex*". Bryologist 126(1):69–89.
+Shaw AJ, Nieto-Lugilde M, Aguero B, Duffy A, Piatkowski BT, Jaramillo-Chico J, Robinson S, Hassel K, Flatberg KI, Weston DJ, Schuette S, Hicks KA. 2023. *Sphagnum diabolicum* sp. nov. and *S. magniae* sp. nov.; morphological variation and taxonomy of the "*S. magellanicum* complex". Bryologist 126(1):69–89.
 
 Healey AL, Piatkowski B, Lovell JT, Sreedasyam A, Carey SB, Mamidi S, Shu S, Plott C, Jenkins J, Lawrence T, Aguero B, Carrell AA, Nieto-Lugilde M, Talag J, Duffy A, Jawdy S, Carter KR, Boston L-B, Jones T, Jaramillo-Chico J, Harkess A, Barry K, Keymanesh K, Bauer D, Grimwood J, Gunter L, Schmutz J, Weston DJ, Shaw AJ. 2023. Newly identified sex chromosomes in the *Sphagnum* (peat moss) genome alter carbon sequestration and ecosystem dynamics. Nature Plants 9(2):238–254.
 
@@ -69,11 +69,11 @@ Duffy AM, Kelchner SA, Wolf PG. 2009. Conservation of selection on *matK* follow
 
 # Presentations, Posters & Workshops:
 
-Duffy, AM, Mendoza KM, Reed KM, Coulombe RA. 2016. Poster: Candidate miRNAs involved in regulation of alpha-class glutathione S-transferases associated with susceptibility to the carcinogen aflatoxin B1. Plant & Animal Genome Conference XXIV, San Diego, CA (2016).
+Duffy, AM, Mendoza KM, Reed KM, Coulombe RA. Poster: Candidate miRNAs involved in regulation of alpha-class glutathione S-transferases associated with susceptibility to the carcinogen aflatoxin B1. Plant & Animal Genome Conference XXIV, San Diego, CA (2016).
 
 Duffy AM, Farrar DR, Wolf PG. Presentation: Exploring the population genetics of independent gametophytes of *Crepidomanes intricatum* (Farrar) Ebihara & Weakley (Hymenophyllaceae) using genotyping-by-sequencing. Botany 2014, Boise, ID (2014).
 
-Duffy AM. Workshop: Hands-on inquiry using the Virtual Plant Community Simulation (VPCsim). Utah State University Global Academy - Science, Technology and Inquiry session, Logan, UT (2012).
+Duffy AM. Workshop: Hands-on inquiry using the Virtual Plant Community Simulation (VPCsim). Utah State University Global Academy—Science, Technology and Inquiry session, Logan, UT (2012).
 
 Duffy AM, Campbell T, Wolf PG. Workshop: The Virtual Population Genetics (VPG) Simulation System: An example of learning 'with' cyber-enabled technologies in science classrooms. National Science Teachers Association Research Dissemination Conference, San Francisco, CA (2011).
 
