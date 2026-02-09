@@ -39,7 +39,7 @@ Duffy AM, MC Stensvold, and DR Farrar. 2015. Independent gametophytes of *Hymeno
 
 Sessa EB, JA Banks, MS Barker, JP Der, AM Duffy, SW Graham, M Hasebe, J Langdale, F-W Li, DB Marchant, KM Pryer, CJ Rothfels, SJ Roux, ML Salmi, EM Sigel, DE Soltis, PS Soltis, DW Stevenson, and PG Wolf. 2014. Between two fern genomes. GigaScience 3:15.
 
-Schilling MP, PG Wolf, AM Duffy, HS Rai, CA Rowe, BA Richardson, and KE Mock. 2014. Genotyping-by-sequencing for Populus population genomics: an assessment of genome sampling patterns and filtering approaches. PLoS One 9:e95292.
+Schilling MP, PG Wolf, AM Duffy, HS Rai, CA Rowe, BA Richardson, and KE Mock. 2014. Genotyping-by-sequencing for *Populus* population genomics: an assessment of genome sampling patterns and filtering approaches. PLoS One 9:e95292.
 
 Duffy AM, PG Wolf, J Barrow, M Longhurst, and T Campbell. 2013. Ecological investigations within an interactive plant community simulation. Science Scope 36:42-51.
 
@@ -81,7 +81,7 @@ Campbell T, and AM Duffy. Hands-on demo: OpenSim as an example of cyber-enabled 
 
 Duffy AM. Simulating fern life cycles and population genetics in a 3-dimensional virtual world. Botany 2009, Snowbird, UT and Idaho State University Practical Bioinformatics Workshop, Lava Hot Springs, ID (2009).
 
-Duffy AM, SA Kelchner, and PG Wolf. Conservation of selection on matK in ferns following an ancient loss of the trnK intron by genome inversion. Botany 2008, Vancouver, BC and Idaho State University Practical Bioinformatics Workshop, Lava Hot Springs, ID (2008).
+Duffy AM, SA Kelchner, and PG Wolf. Conservation of selection on *matK* in ferns following an ancient loss of the *trnK* intron by genome inversion. Botany 2008, Vancouver, BC and Idaho State University Practical Bioinformatics Workshop, Lava Hot Springs, ID (2008).
 
 Duffy AM, MM Funke, JL Clark, and JF Smith. A phylogenetic analysis of the genera of tribe Episcieae (Gesneriaceae) from multiple loci. Botany 2004, Snowbird, UT and Northwest Science Association, Boise, ID (2006).
 
