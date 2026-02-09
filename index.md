@@ -9,11 +9,13 @@ layout: default
   <img src="images/Fern_Reproduction.png" width="150" height="150" alt="Fern Reproduction" />
 </div>
 <div id="hometext">
-  <p>I am a research scientist with experience in genomics, bioinformatics, and data-driven analysis,
-specializing in designing analytical approaches to complex biological questions. I have a proven ability to generate,
-integrate, and interpret large-scale biological datasets, develop computational workflows, and translate
-results for diverse stakeholders. My background spans academic research and prior industry experience in
-regulated environments, including quality systems, documentation, and technical training.</p>
+  <p>I am a research scientist with extensive experience applying data-driven and computational approaches to biological questions, particularly in genomics, bioinformatics, and evolutionary biology. My work focuses on designing analytical strategies, integrating complex datasets, and using quantitative methods to extract insight from real-world biological data.</p>
+
+<p>Across academic and industry settings, I have worked at the intersection of research, data systems, and quality-driven processes. I am comfortable building analytical workflows, working with large and messy datasets, and translating results into clear, actionable conclusions for collaborators with diverse technical backgrounds.</p>
+
+<p>My technical toolkit includes statistical analysis in R and Python, genomic and regulatory data analysis, database-backed data systems, and scientific software development for simulation and analysis. I bring a strong emphasis on reproducibility, documentation, and data integrity—skills informed by both federally funded research and earlier industry experience in regulated manufacturing environments.</p>
+
+<p>I am currently exploring applied research, data science, and analytical roles in biotech, agriculture, environmental science, and related fields where rigorous data analysis and biological domain expertise intersect.</p>
 </div>
 <div id="homeimages">
   <img src="images/Trichomanes_intricatum.png" width="150" height="150" alt="Trichomanes intricatum, Crepidomanes intricatum" />
