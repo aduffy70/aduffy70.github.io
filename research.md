@@ -6,6 +6,12 @@ permalink: /research/
 
 ### Publications:
 
+Shaw AJ, Duffy AM, Nieto-Lugilde M, Aguero B, Hassel K, Flatberg KI. 2026. Genomic and phylogenetic structure of the *Sphagnum imbricatum* complex (Sphagnaceae) and related alloploids. Annals of Botany mcag024, https://doi.org/10.1093/aob/mcag024.
+
+Shaw AJ, Duffy AM, Aguero B, Nieto-Lugilde M, Imwattana K, Robinson SC, Schuette S, Wilkens RT, Yavitt J, Weston DJ, Piatkowski B, Granath G. 2025. Climate niches structure a regional hybrid zone in *Sphagnum* (peatmoss, Bryophyta). American Journal of Botany e70143.
+
+Shaw AJ, Nieto-Lugilde M, Aguero B, Duffy AM, Robinson S, Hassel K, Flatberg KI, Ingerpuu N, Vellak K, Pérez-Haase A, Jiroušek M, Krebs M, Juselius-Rajamäki T, Piilo S, Robroek B, Lamkowski P, Granath G. 2025. Genetic structure of the *Sphagnum magellanicum* (Sphagnaceae) complex in Europe. The Bryologist 128(3):474–486.
+
 Nieto-Lugilde M, Nieto-Lugilde D, Piatkowski B, Duffy AM, Robinson SC, Aguero B, Schuette S, Wilkens R, Yavitt J, Shaw AJ. 2024. Ecological differentiation and sympatry of cryptic species in the *Sphagnum magellanicum* complex (Bryophyta). American Journal of Botany 111(9):e16401.
 
 Imwattana K, Aguero B, Nieto-Lugilde M, Duffy A, Jaramillo-Chico J, Hassel K, Afonina O, Lamkowski P, Shaw AJ. 2024. Parallel patterns of genetic diversity and structure in circumboreal species of the *Sphagnum capillifolium* complex. American Journal of Botany 111(5):e16348.
