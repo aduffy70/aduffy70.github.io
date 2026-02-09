@@ -1,11 +1,8 @@
 ---
 layout: page
-title: Research
-permalink: /research/
+title: Publications
+permalink: /publications/
 ---
-
-### Publications:
-
 Shaw AJ, Duffy AM, Nieto-Lugilde M, Aguero B, Hassel K, Flatberg KI. 2026. Genomic and phylogenetic structure of the *Sphagnum imbricatum* complex (Sphagnaceae) and related alloploids. Annals of Botany mcag024, https://doi.org/10.1093/aob/mcag024.
 
 Shaw AJ, Duffy AM, Aguero B, Nieto-Lugilde M, Imwattana K, Robinson SC, Schuette S, Wilkens RT, Yavitt J, Weston DJ, Piatkowski B, Granath G. 2025. Climate niches structure a regional hybrid zone in *Sphagnum* (peatmoss, Bryophyta). American Journal of Botany e70143.
@@ -70,7 +67,7 @@ Wolf PG, AM Duffy, and JM Roper. 2009. Phylogenetic use of inversions in fern ch
 
 Duffy AM, SA Kelchner, and PG Wolf. 2009. Conservation of selection on *matK* following an ancient loss of its flanking intron. Gene 438:17-25.
 
-### Presentations:
+### Presentations & Posters:
 
 Duffy, AM, KM Mendoza, KM Reed, RA Coulombe. 2016. Poster: Candidate miRNAs involved in regulation of alpha-class glutathione S-transferases associated with susceptibility to the carcinogen aflatoxin B1. Plant & Animal Genome Conference XXIV, San Diego, CA (2016).
 
