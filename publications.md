@@ -67,7 +67,7 @@ Wolf PG, AM Duffy, and JM Roper. 2009. Phylogenetic use of inversions in fern ch
 
 Duffy AM, SA Kelchner, and PG Wolf. 2009. Conservation of selection on *matK* following an ancient loss of its flanking intron. Gene 438:17-25.
 
-### Presentations & Posters:
+## Presentations & Posters:
 
 Duffy, AM, KM Mendoza, KM Reed, RA Coulombe. 2016. Poster: Candidate miRNAs involved in regulation of alpha-class glutathione S-transferases associated with susceptibility to the carcinogen aflatoxin B1. Plant & Animal Genome Conference XXIV, San Diego, CA (2016).
 
