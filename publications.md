@@ -69,6 +69,8 @@ Duffy AM, Kelchner SA, Wolf PG. 2009. Conservation of selection on *matK* follow
 
 # Presentations, Posters & Workshops:
 
+Duffy AM, Reed KM, Coulombe RA. 2017. Poster: Alternative splicing and miRNAs as potential regulators of glutathione S-transferases in response to aflatoxin B1. USDA-NIFA Animal Health and Disease Project Director Meeting, Chicago, IL.
+
 Duffy, AM, Mendoza KM, Reed KM, Coulombe RA. Poster: Candidate miRNAs involved in regulation of alpha-class glutathione S-transferases associated with susceptibility to the carcinogen aflatoxin B1. Plant & Animal Genome Conference XXIV, San Diego, CA (2016).
 
 Duffy AM, Farrar DR, Wolf PG. Presentation: Exploring the population genetics of independent gametophytes of *Crepidomanes intricatum* (Farrar) Ebihara & Weakley (Hymenophyllaceae) using genotyping-by-sequencing. Botany 2014, Boise, ID (2014).
