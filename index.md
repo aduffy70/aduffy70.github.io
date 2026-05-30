@@ -9,13 +9,12 @@ layout: default
   <img src="images/Fern_Reproduction.png" width="150" height="150" alt="Fern Reproduction" />
 </div>
 <div id="hometext">
-  <p>I am a research scientist with extensive experience applying data-driven and computational approaches to biological questions, particularly in genomics, bioinformatics, and evolutionary biology. My work focuses on designing analytical strategies, integrating complex datasets, and using quantitative methods to extract insight from real-world biological data.</p>
-
-<p>Across academic and industry settings, I have worked at the intersection of research, data systems, and quality-driven processes. I am comfortable building analytical workflows, working with large and messy datasets, and translating results into clear, actionable conclusions for collaborators with diverse technical backgrounds.</p>
-
-<p>My technical toolkit includes statistical analysis in R and Python, genomic and regulatory data analysis, database-backed data systems, and scientific software development for simulation and analysis. I bring a strong emphasis on reproducibility, documentation, and data integrity—skills informed by both federally funded research and earlier industry experience in regulated manufacturing environments.</p>
-
-<p>I am currently exploring applied research, data science, and analytical roles in biotech, agriculture, environmental science, and related fields where rigorous data analysis and biological domain expertise intersect.</p>
+  <p>I am a research and analytics professional whose experience spans scientific research, educational assessment, quality systems management, and, most recently, institutional research. My work has focused on designing analytical strategies, integrating complex datasets, and using quantitative methods to extract insight from real-world data.</p>
+  <p>Over the past decade, much of that work has centered on computational biology, genomics, and evolutionary biology. In these settings, I developed and applied analytical workflows, statistical methods, and data integration approaches to address complex research questions using large and often heterogeneous datasets.</p>
+  <p>Across academic and industry settings, I have worked at the intersection of research, data systems, and quality-driven processes. I am comfortable building analytical workflows, working with large and messy datasets, and translating results into clear, actionable conclusions for collaborators and stakeholders with diverse technical backgrounds.</p>
+  <p>My experience also includes educational research and assessment initiatives in higher education settings, where I worked with longitudinal data, program evaluation, and outcomes-focused analysis. These experiences strengthened my interest in applied analytics, institutional effectiveness, and decision-support work.</p>
+  <p>My technical experience includes statistical analysis in R and Python, relational database systems, data visualization, and scientific software development for simulation and analysis. I bring a strong emphasis on reproducibility, documentation, and data integrity informed by both federally funded research environments and earlier experience in ISO9001-regulated manufacturing settings.</p>
+  <p>I am currently serving as Assistant Director of Institutional Research at Virginia Peninsula Community College.</p>
 </div>
 <div id="homeimages">
   <img src="images/Trichomanes_intricatum.png" width="150" height="150" alt="Trichomanes intricatum, Crepidomanes intricatum" />
